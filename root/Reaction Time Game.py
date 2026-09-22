@@ -4,7 +4,6 @@ import time
 attempts = []
 total_attempts = 5
 
-print("--- REACTION TIME GAME ---")
 print("Press ENTER as fast as you can when you see 'GO!'\n")
 
 for attempt in range(1, total_attempts + 1):
